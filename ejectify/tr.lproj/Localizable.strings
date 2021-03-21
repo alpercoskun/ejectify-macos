@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Ejectify
+
+  Created by Niels Mouthaan on 11/01/2021.
+  
+*/
+
+"No volumes" = "Disk Bölümü Yok";
+"Volumes" = "Disk Bölümleri";
+"Preferences" = "Tercihler";
+"Launch at login" = "Girişte Başlat";
+"Unmount when" = "Bağlantıyı Kesme Koşulu";
+"Screensaver started" = "Ekran koruyucu başlayınca";
+"Screen is locked" = "Ekran kitlenince";
+"Display turned off" = "Ekran kapatılınca";
+"System starts sleeping" = "Sistem uyku moduna geçince";
+"About Ejectify" = "Ejectify Hakkında";
+"Quit Ejectify" = "Ejectify'den Çık";

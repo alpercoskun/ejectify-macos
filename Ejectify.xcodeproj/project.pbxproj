@@ -22,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4A8C9DAA2607D6A60052B9F1 /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B82E12D22570FF0F004547C7 /* Preference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Preference.swift; sourceTree = "<group>"; };
 		B85E03F025AF54D300CA51C5 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B85E03F225AF5B8A00CA51C5 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -179,6 +180,7 @@
 				ja,
 				"pt-PT",
 				hi,
+				tr,
 			);
 			mainGroup = B8AF59DC2569569A003481A8;
 			packageReferences = (
@@ -257,6 +259,7 @@
 				B85E03F225AF5B8A00CA51C5 /* ja */,
 				B85E03F525B1DAAB00CA51C5 /* pt-PT */,
 				B85E040225B1EA1700CA51C5 /* hi */,
+				4A8C9DAA2607D6A60052B9F1 /* tr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
